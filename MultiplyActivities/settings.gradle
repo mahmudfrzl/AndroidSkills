@@ -1,0 +1,2 @@
+rootProject.name = "MultiplyActivities"
+include ':app'
